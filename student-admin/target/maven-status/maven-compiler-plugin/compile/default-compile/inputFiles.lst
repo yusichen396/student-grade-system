@@ -1,0 +1,12 @@
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\mapper\StudentMapper.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\dto\StudentParam.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\StudentApplication.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\service\StudentService.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\common\api\CommonResult.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\common\api\ResultCode.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\model\Student.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\common\api\IErrorCode.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\config\CorsConfig.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\config\WebMvcConfig.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\controller\StudentController.java
+D:\学生成绩管理系统\student-admin\src\main\java\com\student\service\impl\StudentServiceImpl.java
